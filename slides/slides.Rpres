@@ -1,7 +1,7 @@
 Course Project: Shiny Application and Reproducible Pitch
 ========================================================
-author: Beelie
-date: 31 January 2016
+author: Chi Nguyen
+date: 17 July 2016
 
 
 Overview
@@ -13,7 +13,7 @@ The app developed for the first part of the assignment demo is avalilable at:
 https://b33lie.shinyapps.io/shiny_app_mtcars/
 
 Source code for ui.R and server.R files are available on the GitHub repo:
-https://github.com/b33lie/shiny_app_mtcars/
+https://github.com/nhchi/data-products
 
 
 Web Application functionality
