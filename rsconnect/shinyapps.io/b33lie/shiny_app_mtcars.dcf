@@ -1,0 +1,9 @@
+name: shiny_app_mtcars
+account: b33lie
+server: shinyapps.io
+appId: 81154
+bundleId: 362539
+url: https://b33lie.shinyapps.io/shiny_app_mtcars/
+when: 1454238789.41085
+asMultiple: FALSE
+asStatic: FALSE
