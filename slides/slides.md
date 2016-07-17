@@ -1,7 +1,7 @@
 Course Project: Shiny Application and Reproducible Pitch
 ========================================================
-author: Beelie
-date: 31 January 2016
+author: Chi Nguyen
+date: 17 July 2016
 
 
 Overview
@@ -10,10 +10,10 @@ Overview
 This was built as part of a deliverable for the course **Developing Data Products** as part of the Coursera Data Science Specialization.
 
 The app developed for the first part of the assignment demo is avalilable at:
-https://b33lie.shinyapps.io/shiny_app_mtcars/
+https://nchi.shinyapps.io/data-products/
 
 Source code for ui.R and server.R files are available on the GitHub repo:
-https://github.com/b33lie/shiny_app_mtcars/
+https://github.com/nhchi/data-products
 
 
 Web Application functionality
