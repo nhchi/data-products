@@ -5,7 +5,7 @@ GitHub repo: https://github.com/nhchi/data-products
 
 Demo: https://nchi.shinyapps.io/data-products/
 
-Slide: http://rpubs.com/nchi/148785
+Slide: http://rpubs.com/nchi/data-products
 
 ## Description
 
