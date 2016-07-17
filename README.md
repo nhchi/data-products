@@ -1,11 +1,11 @@
 # Developing Data Products Course - Course Project: Shiny Application and Reproducible Pitch
 There are the Coursera’s MOOC Developing Data Products Course from Johns Hopkins University. For more information about the several MOOCs comprised in this Specialization.
 
-GitHub repo: https://github.com/b33lie/shiny_app_mtcars
+GitHub repo: https://github.com/nhchi/data-products
 
-Demo: https://b33lie.shinyapps.io/shiny_app_mtcars/
+Demo: https://nchi.shinyapps.io/data-products/
 
-Slide: http://rpubs.com/b33lie/148785
+Slide: http://rpubs.com/nchi/148785
 
 ## Description
 
